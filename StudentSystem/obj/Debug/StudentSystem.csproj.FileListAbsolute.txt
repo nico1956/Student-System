@@ -1,0 +1,10 @@
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.MainForm.resources
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.Properties.Resources.resources
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.pdb
+C:\Users\Nico\Desktop\IHCC\C#\Projects\StudentSystem\obj\Debug\StudentSystem.AssignmentsForm.resources
